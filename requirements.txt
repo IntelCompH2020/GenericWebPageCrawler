@@ -1,0 +1,6 @@
+
+langdetect==1.0.8
+bs4==0.0.1
+beautifulsoup4==4.7.1
+tqdm==4.48.2
+requests==2.25.1
